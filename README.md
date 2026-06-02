@@ -10,6 +10,9 @@
 currently turning coffee into commits ⋆☕︎˖
 ```
 
+<img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/2eb4ba3f-0231-483f-81ba-56828f69a779" />
+
+
 </div>
 
 </div>
