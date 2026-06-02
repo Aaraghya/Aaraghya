@@ -6,8 +6,8 @@
 
 <div align="center">
 
-```txt
-currently turning coffee into commits
+```bash 
+$ currently turning coffee into commits
 ```
 
 </div>
@@ -18,19 +18,22 @@ currently turning coffee into commits
 
 ## experience
 
-```txt
-Open Source
+```bash 
+$ Open Source
+
 ├── GSSoC 2026 Contributor
 ├── Multiple Merged Pull Requests
 └── Active GitHub Contributor
 
-Projects
+$ Projects
+
 ├── Satyaledger [ in works. ]
 ├── Liminal
 ├── SkillSync
 └── ForenSight
 
-Community Work
+$ Community Work
+
 ├── Events Team - Google Developer Groups
 └── Organizing Team - HackSRM 7.0
 
@@ -39,11 +42,12 @@ Community Work
 ---
 
 ## currently locked in on:
-
+```bash 
 ✦ C++
 ✦ React
 ✦ System Design
 ✦ Open Source Development
+```
  
 ---
 
@@ -53,10 +57,4 @@ Community Work
 </p>
 
 ---
-
-## building towards
-
-* meaningful open source contributions
-* scalable products
-* better engineering habits
-* shipping more than i plan
+thanks 4 visiting :) 
