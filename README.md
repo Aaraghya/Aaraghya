@@ -1,7 +1,7 @@
 <div align="center">
 
 # · · ─ ·𖥸· ─ · · 
-#hi! i'm Aaraghya ⊹ ࣪ ˖
+# hi! i'm Aaraghya ⊹ ࣪ ˖
 
 <div align="center">
 
