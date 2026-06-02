@@ -45,8 +45,6 @@ Community Work
 ✦ System Design
 ✦ Open Source Development
  
-```
-
 ---
 
 ## tech stack
