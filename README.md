@@ -1,13 +1,13 @@
 <div align="center">
 
-# hi! i'm Aaraghya
+# · · ─ ·𖥸· ─ · ·
 
----
+# hi! i'm Aaraghya ⊹ ࣪ ˖
 
 <div align="center">
 
 ```bash 
-$ currently turning coffee into commits
+currently turning coffee into commits ⋆☕︎˖
 ```
 
 </div>
@@ -16,23 +16,23 @@ $ currently turning coffee into commits
 
 ---
 
-## experience
+## ⚡︎ experience
 
 ```bash 
-$ Open Source
+$ Open Source ˎˊ˗
 
 ├── GSSoC 2026 Contributor
 ├── Multiple Merged Pull Requests
 └── Active GitHub Contributor
 
-$ Projects
+$ Projects ˎˊ˗
 
 ├── Satyaledger [ in works. ]
 ├── Liminal
 ├── SkillSync
 └── ForenSight
 
-$ Community Work
+$ Community Work ˎˊ˗
 
 ├── Events Team - Google Developer Groups
 └── Organizing Team - HackSRM 7.0
@@ -41,7 +41,7 @@ $ Community Work
 
 ---
 
-## currently locked in on:
+## ٠࣪⭑ currently locked in on:
 ```bash 
 ✦ C++
 ✦ React
@@ -51,10 +51,10 @@ $ Community Work
  
 ---
 
-## tech stack
+## ⓘ tech stack 
  <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,tailwind,mysql,git,github,vscode,figma,vercel" />
 </p>
 
 ---
-thanks 4 visiting :) 
+⁠♡ thanks 4 visiting :) 
