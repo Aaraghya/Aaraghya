@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ2d2Z6MXU2dDh5dXNwbThpNnBjYjI4bWN0bWR5eWZyd2I0ZGs4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
-
 # hi, i'm Aaraghya!
 
 ---
@@ -18,7 +16,7 @@ currently turning coffee into commits
 
 ---
 
-## ⚡ experience
+## experience
 
 ```txt
 Open Source
@@ -31,11 +29,16 @@ Projects
 ├── Liminal
 ├── SkillSync
 └── ForenSight
+
+Community Work
+├── Events Team - Google Developer Groups
+└── Organizing Team - HackSRM 7.0
+
 ```
 
 ---
 
-## 🌱 currently learning
+##  currently learning
 
 ```cpp
 class Ru {
@@ -51,17 +54,14 @@ public:
 
 ---
 
-## 🛠 tech stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,streamlit,git,github,vscode,figma,mysql,html5,css3,tailwind css,vercel,lovable"/>
-
+## tech stack
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,tailwind,mysql,git,github,vscode,figma,vercel" />
 </p>
 
 ---
 
-## 🚀 building towards
+## building towards
 
 * meaningful open source contributions
 * scalable products
