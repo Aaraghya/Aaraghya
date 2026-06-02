@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm Aaraghya!
+# hi! i'm Aaraghya
 
 ---
 
@@ -38,18 +38,13 @@ Community Work
 
 ---
 
-##  currently learning
+## currently locked in on:
 
-```cpp
-class Ru {
-public:
-    vector<string> learning = {
-        "C++",
-        "React",
-        "System Design",
-        "Open Source Development"
-    };
-};
+✦ C++
+✦ React
+✦ System Design
+✦ Open Source Development
+ 
 ```
 
 ---
@@ -67,13 +62,3 @@ public:
 * scalable products
 * better engineering habits
 * shipping more than i plan
-
----
-
-## 🌐 find me
-
-<a href="[YOUR_LINKEDIN_HERE"](https://www.linkedin.com/in/aaraghya/)>
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-
