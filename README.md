@@ -29,7 +29,7 @@ $ Open Source ˎˊ˗
 
 $ Projects ˎˊ˗
 
-├── Satyaledger [ in works. ]
+├── Curio [ in works. ]
 ├── Liminal
 ├── SkillSync
 └── ForenSight
