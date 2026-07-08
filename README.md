@@ -29,7 +29,7 @@ $ Open Source ˎˊ˗
 
 $ Projects ˎˊ˗
 
-├── Curio [ in works. ]
+├── Schrödinger's Gambit [ in works. ]
 ├── Liminal
 ├── SkillSync
 └── ForenSight
