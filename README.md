@@ -29,7 +29,7 @@ $ Open Source ˎˊ˗
 
 $ Projects ˎˊ˗
 
-├── Schrödinger's Gambit [ in works. ]
+├── Schrödinger's Gambit 
 ├── Liminal
 ├── SkillSync
 └── ForenSight
