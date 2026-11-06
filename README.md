@@ -20,19 +20,14 @@ turning coffee into commits ⋆☕︎˖
 
 ## ⚡︎ experience
 
-```bash 
-$ Open Source ˎˊ˗
-
-├── GSSoC 2026 Contributor
-└── Multiple Merged Pull Requests
+```bash
 
 $ Projects ˎˊ˗
 
 ├── Orchestrix
 ├── Schrödinger's Gambit 
 ├── Liminal
-├── SkillSync
-└── ForenSight
+└── SkillSync
 
 $ Community Work ˎˊ˗
 
