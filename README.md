@@ -28,6 +28,7 @@ $ Open Source ˎˊ˗
 
 $ Projects ˎˊ˗
 
+├── Orchestrix
 ├── Schrödinger's Gambit 
 ├── Liminal
 ├── SkillSync
@@ -44,16 +45,14 @@ $ Community Work ˎˊ˗
 
 ## ٠࣪⭑ currently locked in on:
 ```bash 
-✦ WealthWise 
-✦ Orchestrix
 ✦ Reverie
 ```
  
 ---
 
 ## ⓘ tech stack 
- <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,tailwind,mysql,git,github,vscode,figma,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,react,java,html,css,mysql,git,github,vscode,figma,vercel" />
 </p>
 
 ---
