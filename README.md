@@ -44,7 +44,12 @@ $ Community Work ˎˊ˗
 ```
  
 ---
+## °‧ 𓆝 the commit stream
+<div align="center">
+  <img src="nagare/nagare.svg" width="100%" alt="GitHub activity river"/>
+</div>
 
+---
 ## ⓘ tech stack 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,react,java,html,css,mysql,git,github,vscode,figma,vercel" />
