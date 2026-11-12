@@ -41,6 +41,7 @@ $ Community Work ˎˊ˗
 ## ٠࣪⭑ currently locked in on:
 ```bash 
 ✦ Reverie
+✦ Curio
 ```
  
 ---
