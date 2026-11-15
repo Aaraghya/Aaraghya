@@ -42,6 +42,7 @@ $ Community Work ˎˊ˗
 ```bash 
 ✦ Reverie
 ✦ Curio
+✦ ragmail
 ```
  
 ---
