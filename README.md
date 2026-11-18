@@ -53,9 +53,16 @@ $ Community Work ˎˊ˗
 
 ---
 ## ⓘ tech stack 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,react,java,html,css,mysql,git,github,vscode,figma,vercel" />
 </p>
 
+---
+## ٠࣪⭑ curious?
+<div align="center">
+  <a href="./assets/Aaraghya_Bhatnagar_CV.pdf">
+    <img src="https://img.shields.io/badge/RESUME-View%20PDF-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV"/>
+  </a>
+</div>
 ---
 ⁠♡ thanks 4 visiting :) 
