@@ -51,7 +51,7 @@ $ Community Work ˎˊ˗
 ## ٠࣪⭑ curious?
 <div align="center">
   <a href="./assets/Aaraghya_Bhatnagar_CV.pdf">
-    <img src="https://img.shields.io/badge/RESUME-View%20PDF-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV"/>
+    <img src="https://img.shields.io/badge/RESUME-View%20PDF-905F66?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV"/>
   </a>
 </div>
 
