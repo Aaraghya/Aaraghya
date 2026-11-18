@@ -5,9 +5,9 @@
 
 <div align="center">
 
-```bash 
-turning coffee into commits ⋆☕︎˖
-```
+<p align="center">
+  <code>turning coffee into commits ⋆☕︎˖</code>
+</p>
 
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/2eb4ba3f-0231-483f-81ba-56828f69a779" />
 
@@ -35,16 +35,6 @@ $ Community Work ˎˊ˗
 └── Organizing Team - HackSRM 7.0
 
 ```
-
----
-
-## ٠࣪⭑ currently locked in on:
-```bash 
-✦ Reverie
-✦ Curio
-✦ ragmail
-```
- 
 ---
 ## °‧ 𓆝 the commit stream
 <div align="center">
@@ -64,5 +54,6 @@ $ Community Work ˎˊ˗
     <img src="https://img.shields.io/badge/RESUME-View%20PDF-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View my CV"/>
   </a>
 </div>
+
 ---
 ⁠♡ thanks 4 visiting :) 
