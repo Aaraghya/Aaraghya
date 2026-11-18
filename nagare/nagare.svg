@@ -7,6 +7,15 @@
   --wash: #FFB6D5;
   --shade: #1d252b;
 }
+  @media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1d252b;
+    --ink: #f4f0e8;
+    --red: #FFB6D5;
+    --wash: #FFB6D5;
+    --shade: #1d252b;
+  }
+}
 
 .bg {
   fill: var(--paper);
