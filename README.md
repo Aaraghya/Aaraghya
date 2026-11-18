@@ -9,7 +9,7 @@
   <code>turning coffee into commits ⋆☕︎˖</code>
 </p>
 
-<img width="500" alt="Retro computer with a cat" src="https://raw.githubusercontent.com/Aaraghya/Aaraghya/main/assets/73ae4e82-6238-4db4-a30f-748e623277e1.png" />
+<img width="500" alt="Retro computer with a cat" src="https://raw.githubusercontent.com/Aaraghya/Aaraghya/main/assets/cat.jpg" />
 
 </div>
 
