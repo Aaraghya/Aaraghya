@@ -41,14 +41,6 @@ $ Community Work ˎˊ˗
 </div>
 
 ---
-## 
-<div align="center">
-
-![my digital dialects](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaraghya&layout=compact&langs_count=10&theme=date_night)
-
-</div>
-
----
 ## ٠࣪⭑ curious?
 <div align="center">
   <a href="./assets/Aaraghya_Bhatnagar_CV.pdf">
