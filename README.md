@@ -41,10 +41,12 @@ $ Community Work ˎˊ˗
 </div>
 
 ---
-## ⓘ tech stack 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,react,java,html,css,mysql,git,github,vscode,figma,vercel" />
-</p>
+## 
+<div align="center">
+
+![my digital dialects](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaraghya&layout=compact&langs_count=10&theme=date_night)
+
+</div>
 
 ---
 ## ٠࣪⭑ curious?
