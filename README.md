@@ -23,6 +23,7 @@
 
 $ Projects ˎˊ˗
 
+├── Nook
 ├── Orchestrix
 ├── Schrödinger's Gambit 
 ├── Liminal
